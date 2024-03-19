@@ -7,9 +7,11 @@ public class Main {
     int a=5;
     int b;
     b=a+1;
+    int c=a-b;
+    System.out.println("podaj c");
     System.out.println(b);
     System.out.println(b*a);
-    
+    System.out.println(c);
   }
 
   // @Test
